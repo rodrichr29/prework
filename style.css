@@ -66,3 +66,20 @@ text-align:center;
 ul{
 padding-left:15px;
 }
+.nav-title{
+  padding-top:15px;
+}
+.email{
+  margin-bottom:10px;
+}
+.message{
+  margin-bottom:15px;
+  border:none;
+  border-radius:15px;
+  padding:10px;
+}
+input{
+  border:none;
+  border-radius:15px;
+  padding:10px;
+}
